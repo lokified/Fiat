@@ -1,4 +1,4 @@
-package com.loki.fiat.ui.theme
+package com.loki.fiat.presentation.theme
 
 import android.app.Activity
 import android.os.Build

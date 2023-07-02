@@ -1,4 +1,4 @@
-package com.loki.fiat.ui.theme
+package com.loki.fiat.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

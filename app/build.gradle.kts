@@ -20,6 +20,10 @@ android {
         vectorDrawables {
             useSupportLibrary = true
         }
+
+        val apikey = project.property("api_key") as String
+
+        buildConfigField("String", "API_KEY", apikey)
     }
 
     buildTypes {
