@@ -1,5 +1,5 @@
 # Fiat
-An app that shows crypto coin list and a searchable screen tha can find different types of coins with its markets and exchanges
+An app that shows crypto coin list and a searchable screen that can find different types of coins with its markets and exchanges
 
 ###
 Screenshots
@@ -25,12 +25,6 @@ Screenshots
 <img src="https://github.com/lokified/Fiat/assets/87479198/3378b736-bbc3-4e8c-bc36-b2d9f58b7e15" width=30% height=30% >
 </p>
 
-## Prerequisites
-1. Java jdk
-2. Androidstudio.
-3. Gradle
-4. Kotlin
-
 ## Launching Application
 1. Download and install Android Studio
 2. Install JAVA jdk and kotlin
@@ -40,11 +34,14 @@ Screenshots
 
 
 ## Technologies Used
+- coinranking API - The data comes from the API
 - Kotlin - App is built with the language.
 - Jetpack compose - Ui uses compose
-- Retrofit- For networking.
+- Retrofit- For making requests in the API.
 - Hilt - For dependency injection.
 - Jetpack components;
   - navigation component - Navigating through different screens in the app.
 - Coroutines - Used to make asynchronous calls.
-- Flow - Used to get data from network requests asynchronously
+- Flow - Used to get data from network requests asynchronously.
+- Coil - for loading images.
+- Splash screen Api - For creating a splash screen on app starting.
