@@ -11,6 +11,8 @@ import com.loki.fiat.presentation.detail.DetailsScreen
 import com.loki.fiat.presentation.detail.DetailsViewModel
 import com.loki.fiat.presentation.home.HomeScreen
 import com.loki.fiat.presentation.home.HomeViewModel
+import com.loki.fiat.presentation.search.SearchScreen
+import com.loki.fiat.presentation.search.SearchViewModel
 import com.loki.fiat.util.Constants.COIN_ID
 
 @Composable
@@ -48,6 +50,12 @@ fun Navigation(
 
         composable(route = Screens.SearchScreen.route) {
 
+            val viewModel = hiltViewModel<SearchViewModel>()
+
+            SearchScreen(
+                viewModel = viewModel,
+                openScreen = { appState.navigate(it) }
+            )
         }
     }
 }

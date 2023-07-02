@@ -12,7 +12,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.navigation.NavController
 import androidx.navigation.compose.currentBackStackEntryAsState
-import com.loki.fiats.presentation.navigation.Screens
+import com.loki.fiat.presentation.navigation.Screens
 
 @Composable
 fun BottomNav(
