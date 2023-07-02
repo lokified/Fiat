@@ -2,9 +2,9 @@ package com.loki.fiat.data.remote.repository
 
 import com.loki.fiat.data.remote.CoinRankingApi
 import com.loki.fiat.util.Resource
-import com.loki.fiats.data.remote.dto.Coin
-import com.loki.fiats.data.remote.dto.CoinDetail
-import com.loki.fiats.data.remote.dto.DataSearch
+import com.loki.fiat.data.remote.dto.Coin
+import com.loki.fiat.data.remote.dto.CoinDetail
+import com.loki.fiat.data.remote.dto.DataSearch
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import retrofit2.HttpException

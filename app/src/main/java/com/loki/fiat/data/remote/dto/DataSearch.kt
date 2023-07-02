@@ -1,4 +1,6 @@
-package com.loki.fiats.data.remote.dto
+package com.loki.fiat.data.remote.dto
+
+import com.loki.fiats.data.remote.dto.CoinSearch
 
 data class DataSearch(
     val coins: List<CoinSearch>,

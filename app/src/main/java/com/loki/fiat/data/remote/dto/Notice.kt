@@ -1,4 +1,4 @@
-package com.loki.fiats.data.remote.dto
+package com.loki.fiat.data.remote.dto
 
 data class Notice(
     val type: String,

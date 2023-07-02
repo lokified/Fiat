@@ -1,4 +1,4 @@
-package com.loki.fiats.data.remote.dto
+package com.loki.fiat.data.remote.dto
 
 import com.google.gson.annotations.SerializedName
 
