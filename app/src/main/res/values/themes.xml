@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.Fiat" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Fiat" parent="android:Theme.Material.NoActionBar" />
+
+    <style name="Theme.Fiat.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Booko.AppBarOverlay" parent="Theme.Fiat.NoActionBar" />
+
+    <style name="Theme.Booko.PopupOverlay" parent="Theme.Fiat.NoActionBar" />
 </resources>

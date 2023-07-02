@@ -73,9 +73,8 @@ fun DetailsScreen(
 
                 Column {
                     OverviewCard(coin = coin, modifier = Modifier.padding(16.dp))
-
-                    coin.tags.forEach {
-                        Row {
+                    Row (modifier = Modifier.padding(16.dp)) {
+                        coin.tags.forEach {
                             Tag(content = it, modifier = Modifier.padding(8.dp))
                         }
                     }
@@ -131,9 +130,9 @@ fun Tag(
 
     Box(
         modifier = modifier.background(
-            color = MaterialTheme.colorScheme.primary.copy(.05f),
+            color = MaterialTheme.colorScheme.primary.copy(.1f),
             shape = RoundedCornerShape(4.dp)
-        ),
+        ).padding(4.dp),
         contentAlignment = Alignment.Center
     ) {
         Text(text = content, fontSize = 13.sp)
