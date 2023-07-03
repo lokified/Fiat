@@ -8,22 +8,22 @@ Screenshots
 ### Home screen
 
 <p align="center">
-<img src="https://github.com/lokified/Fiat/assets/87479198/87e8989d-072f-4bac-83e4-ecca0fad7a03" width=30% height=30% >
-<img src="https://github.com/lokified/Fiat/assets/87479198/e5b675b1-2834-4abb-913d-2632c803c2ba" width=30% height=30% >
+<img src="https://github.com/lokified/Fiat/assets/87479198/68e229b4-3425-4811-a769-526095aa9f6a" width=30% height=30% >
+<img src="https://github.com/lokified/Fiat/assets/87479198/46f1742d-08ed-4268-a66b-8cfbba2ccd66" width=30% height=30% >
 </p>
 
 ### Detail screen
 
 <p align="center">
-<img src="https://github.com/lokified/Fiat/assets/87479198/ace13a42-9c4d-4f4d-9719-2d7a777631d7" width=30% height=30% >
-<img src="https://github.com/lokified/Fiat/assets/87479198/b21cfa9c-f49e-42e5-b51f-73e5866577c2" width=30% height=30% >
+<img src="https://github.com/lokified/Fiat/assets/87479198/86b244cf-9847-402a-a0d5-3960a3c62212" width=30% height=30% >
+<img src="https://github.com/lokified/Fiat/assets/87479198/cff29a35-da39-4d88-b87c-97b56e39d4e0" width=30% height=30% >
 </p>
 
 ### Search screen
 
 <p align="center">
-<img src="https://github.com/lokified/Fiat/assets/87479198/bf5dd104-f31f-40de-b9da-29e7b2cf4e27" width=30% height=30% >
-<img src="https://github.com/lokified/Fiat/assets/87479198/3378b736-bbc3-4e8c-bc36-b2d9f58b7e15" width=30% height=30% >
+<img src="https://github.com/lokified/Fiat/assets/87479198/622db5b0-d3e2-448c-b245-3505f219fbd5" width=30% height=30% >
+<img src="https://github.com/lokified/Fiat/assets/87479198/cb1c3faf-0ed3-4846-97c9-c00f3d151da8" width=30% height=30% >
 </p>
 
 ## Launching Application
